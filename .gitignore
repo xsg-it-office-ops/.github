@@ -1,0 +1,2 @@
+# except all files in the root directory, ignore all files in subdirectories
+/*/
