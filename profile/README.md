@@ -18,10 +18,16 @@
 
 ---
 
+
 ## Cloudflare 平台資訊
 
 - 團隊帳戶名稱：xsg-it-office-ops
 - 管理後台連結：https://dash.cloudflare.com/44c748447c948e21c15f195fdac19967/home/overview
+
+## GOOGLE 群組資訊
+
+- GOOGLE群組網路論壇：https://groups.google.com/a/gosmio.biz/g/xsg-it-office-ops
+- 公號信箱：xsg-it-office-ops@gosmio.biz
 
 ---
 
