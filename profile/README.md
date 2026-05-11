@@ -34,7 +34,7 @@
 
 - 專案名稱：XSG-NS
 - 專案網址：https://console.cloud.google.com/welcome?hl=zh-tw&project=idyllic-journey-126508
-Google OAuth由此專案授權
+*Google OAuth由此專案授權*
 
 ---
 
