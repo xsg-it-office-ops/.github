@@ -24,10 +24,17 @@
 - 團隊帳戶名稱：xsg-it-office-ops
 - 管理後台連結：https://dash.cloudflare.com/44c748447c948e21c15f195fdac19967/home/overview
 
-## GOOGLE 群組資訊
+## GOOGLE 群組及GAS郵件通知系統
 
+- 公號：xsg-it-office-ops@gosmio.biz
 - GOOGLE群組網路論壇：https://groups.google.com/a/gosmio.biz/g/xsg-it-office-ops
-- 公號信箱：xsg-it-office-ops@gosmio.biz
+- Gmail Apps Script：https://script.google.com/home/projects/1SkKhyuev2xjWVFdwpYFP4MZDov7-jOQp6o1TeJWtfTSqhxYHuU4QPPUm/edit
+
+## GCP 服務平台
+
+- 專案名稱：XSG-NS
+- 專案網址：https://console.cloud.google.com/welcome?hl=zh-tw&project=idyllic-journey-126508
+Google OAuth由此專案授權
 
 ---
 
